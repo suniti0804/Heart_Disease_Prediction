@@ -8,3 +8,5 @@ Heart disease describes a range of conditions that affects heart. The diagnosis 
 The dataset is taken from [Cleveland Heart Disease dataset from the UCI Repository](https://archive.ics.uci.edu/ml/datasets/heart+disease) and the same is also available at [Kaggle](https://www.kaggle.com/ronitf/heart-disease-uci). The dataset consists of 303 individuals data and there are 14 columns in the dataset.
 
 The code is implemented in Google Colaboratory with the help of Python.
+
+Libraries used - Pandas, Matplotlib, Numpy, Seaborn and Sklearn.
